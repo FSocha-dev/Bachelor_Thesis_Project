@@ -1,0 +1,6 @@
+{
+    "UDP_HOST": "192.168.100.3",
+    "UDP_PORT_LISTEN_SERVICE": 12055,
+    "textFilePath": "C:\\Users\\Sosze\\Desktop\\studia\\Praca_inzynierska\\Praca_dyplomowa\\udpTerminalSService\\",
+    "textFileServiceComm": "serviceComm\\"
+}
